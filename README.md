@@ -16,8 +16,6 @@ In this project, I developed a Convolutional Neural Network (CNN) to detect plan
 ## 📊 Results
 The model achieved **93% accuracy** on the validation set. Below are the training performance graphs:
 
-*(Buraya not defterindeki grafiklerinizin ekran görüntüsünü eklerseniz harika olur, ama şimdilik metin kalsın)*
-
 ## 🚀 How to Run
 1. Download the `Plant_Disease_Detection_CNN.ipynb` file.
 2. Upload your `kaggle.json` key to download the dataset.
